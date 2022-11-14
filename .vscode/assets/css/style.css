@@ -62,7 +62,7 @@ nav li {
     box-sizing: border-box;
     vertical-align: top;
 
-    background-color: ;
+    background-color: 
     /*
     border-color: #5b88a5;
     border-width: 10px;
@@ -108,7 +108,7 @@ nav li {
  }
 
  footer {
-    background: url("bg.png");
+    background: url("../images/bg.png");
     text-align: center;
     padding: 30px 0;
  }
@@ -205,7 +205,7 @@ nav li {
 }
 
 .itens::before {
-   content: '🌱';
+   content: '🌿';
    font-size: 0.9em;
 }
 
